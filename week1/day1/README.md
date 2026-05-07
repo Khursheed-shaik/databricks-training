@@ -1,15 +1,17 @@
-# Day 1 - SQL Basics
+# SQL Practice and Database Concepts
 
 ## What I Learned
 
-Today I learned how to set up tables using a SQL script and practiced basic queries like SELECT, WHERE, and JOIN. I understood how data is organized in tables and how to retrieve specific information using conditions and pattern matching.
+Today I explored different SQL concepts by working with Employee, Department, and Project tables. I practiced writing queries using SELECT, WHERE, LIKE, ORDER BY, GROUP BY, HAVING, aggregate functions, and JOIN operations. I also learned how to filter records using dates, retrieve specific data using conditions, and understand relationships between multiple tables.
 
 ## Work Done
 
-* Executed datacreation.sql to create tables
-* Solved first 10 SQL queries
-* Verified outputs using DB-Fiddle
+* Executed `datacreation.sql` to create and populate tables
+* Solved SQL queries from basic to intermediate level 
+* Practiced filtering, sorting, grouping, and joining data
+* Verified query outputs using DB-Fiddle
+* Uploaded SQL files and outputs to GitHub repository
 
 ## Key Takeaway
 
-I built a strong foundation in SQL and gained confidence in writing basic queries.
+This practice improved my understanding of relational databases and strengthened my confidence in writing SQL queries for data retrieval, analysis, and table relationships.
